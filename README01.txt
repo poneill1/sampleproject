@@ -1,1 +1,1 @@
-README Added to master
+README Added to both
